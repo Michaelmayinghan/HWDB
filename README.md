@@ -1,3 +1,9 @@
+## 👥 Development Team
+This system was collaboratively developed by our team:
+
+* **Xiru Yan** - Lead Developer (Core programming and implementation)
+* **[Yinghan Ma]** - Release & Integration (Project build, packaging, and deployment)
+* **Kui hong Li** - Project Contributor
 # hw_dashboard
 
 A school service platform built by HW students.
